@@ -54,7 +54,7 @@ plugins:
 
 author:
   name   : "Jina Mojahed"
-  avatar : "/assets/prof.png"
+  avatar : "/asset/prof.png"
   bio    : "Physics student at Sharif University of Technology."
   links:
     - label: "Gmail"
