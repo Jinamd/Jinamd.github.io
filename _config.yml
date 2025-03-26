@@ -60,12 +60,6 @@ author:
     - label: "Gmail"
       icon: "fas fa-envelope"
       url: "mailto:Jinamojahed.id@gmail.com"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: ""
-    - label: "Telegram"
-      icon: "fab fa-telegram"
-      url: ""
 defaults:
   # _posts
   - scope:
