@@ -3,11 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-I'm Daniel Hakimi. I completed my middle and high school education at SAMPAD Schools (National Organization for Development of Exceptional Talents) in Iran. 
+I'm an undergraduate physics student at Sharif University of Technology, exploring different fields to find my future direction. My main interests are quantum mechanics, electrodynamics, and relativity. Currently, I'm working on a General Relativity project, while experimenting with different areas to see what excites me the most.  
 
-Currently, I am a student at Sharif University of Technology in Tehran, majoring in Physics. Alongside my main field of study, I am also pursuing Mathematics as a minor.
-
-My academic interests lie in theoretical physics and mathematics, and I am passionate about studying and researching in these fields. 
-This website serves as a platform where I share my ideas and writings with you. 
-
-I hope you enjoy exploring my website!
+If you’re here, you probably have your own path in physics. Maybe our interests overlap.
