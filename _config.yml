@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Daniel Hakimi
+title: Jina Mojahed
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -55,19 +55,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Daniel Hakimi"
+  name   : "Jina Mojahed"
   avatar : "/assets/images/picture.jpg"
-  bio    : "Physics and mathematics student at Sharif University of Technology."
+  bio    : "Physics student at Sharif University of Technology."
   links:
     - label: "Gmail"
       icon: "fas fa-envelope"
-      url: "mailto:danielhk1383@gmail.com"
+      url: "mailto:Jinamojahed.id@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/danial-hakimi-69a012317?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcWNn7c2mTlmJzW4tEzxJhA%3D%3D"
+      url: ""
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "https://t.me/danielhk2004"
+      url: ""
 defaults:
   # _posts
   - scope:
@@ -75,7 +75,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -86,7 +86,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 category_archive:
   type: liquid
   path: /categories/
