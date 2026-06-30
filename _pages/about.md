@@ -86,7 +86,7 @@ If you’re here, you’re probably curious about physics too. Maybe we’ll end
 
 
 
-# 🎓 Education
+# Education
 
 <div class="profile-card">
 
@@ -99,7 +99,7 @@ If you’re here, you’re probably curious about physics too. Maybe we’ll end
 </ul>
 </div>
 
-# 💼 Academic Experience
+# Academic Experience
 
 <div class="profile-card">
 
@@ -109,7 +109,7 @@ If you’re here, you’re probably curious about physics too. Maybe we’ll end
 </ul>
 </div>
 
-# 🏆 Honors
+# Honors
 
 <div class="profile-card">
   
@@ -120,7 +120,7 @@ If you’re here, you’re probably curious about physics too. Maybe we’ll end
 </div>
 
 
-# 🔬 Research Projects
+# Research Projects
 
 <div class="profile-card">
 
@@ -147,7 +147,7 @@ If you’re here, you’re probably curious about physics too. Maybe we’ll end
 </div>
 
 
-# 💻 Skills
+# Skills
 
 <div class="profile-card">
 
