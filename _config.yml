@@ -12,14 +12,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jina Mojahed
+title: Physics
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 minimal_mistakes_skin: default
-search: true
+search: false
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -28,10 +25,8 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 include:
   - _pages
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -49,17 +44,16 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
+  - jemoji  
   - jekyll-include-cache
-
 author:
   name   : "Jina Mojahed"
-  avatar : "/assest/pic.jpg"
+  avatar : "/assets/images/4.jpg"
   bio    : "Physics student at Sharif University of Technology."
   links:
     - label: "Gmail"
       icon: "fas fa-envelope"
-      url: "mailto:Jinamojahed.id@gmail.com"
+      url: "mailto:jinamojahed.id@gmail.com"
 defaults:
   # _posts
   - scope:
@@ -68,10 +62,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
@@ -85,3 +79,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+sass:
+  style: compressed
