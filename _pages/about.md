@@ -129,27 +129,19 @@ If you’re here, you’re probably curious about physics too. Maybe we’ll end
 
 <li>Mathisson–Papapetrou–Dixon (MPD) Equations</li>
 
-<li>Mathematical Methods for Explicit MPD Solutions</li>
-
-<li>Analytical Spinning Particle Dynamics under Gravitational Waves</li>
-
-<li>Approximate Methods for Solving the MPD Equations</li>
-
-<li>Dirac Equation in Curved Spacetime</li>
-
-<li>Quantum Formulation of the MPD Equations</li>
-
 <li>Selected Topics in Gravitoelectromagnetism (GEM)</li>
 
 <li>Relativistic Stern–Gerlach force in GEM and Spin-Gravity Coupling</li>
 
-<li>Electrodynamics of Rotating Bodies</li>
+<li>fundamentals of Magnetohydrodynamics (MHD)</li>
 
-<li>Selected Topics in Quantum Electrodynamics</li>
+<li>Electromagnetic Particle Simulation — Python</li>
 
-<li>Theoretical Aspects of the Large Hadron Collider</li>
+<li>3-Body Orbital Simulation (Sun–Jupiter–Callisto) — Python</li>
 
-<li>Simulation of Gyroscope Dynamics in Earth's Gravitational Field</li>
+<li>Earth Axis Rotation Simulation — Python</li>
+
+<li>Smart Water Level Indicator Circuit</li>
 </ul>
 
 </div>
