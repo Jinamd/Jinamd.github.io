@@ -106,6 +106,9 @@ If you’re here, you’re probably curious about physics too. Maybe we’ll end
 <ul>
 <li>Teaching Assistant — Special Relativity</li>
 </ul>
+<ul>
+Teaching Assistant — Electronic Lab
+</ul>
 </div>
 
 # 🏆 Honors
